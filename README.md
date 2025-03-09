@@ -1,12 +1,47 @@
-<h1 align="center">Oi! Eu sou o Éric Arruda</h1>
-<h3 align="center">Estudante UI & Front-End</h3>
+# Éric Arruda
 
-- 🌱 Atualmente estudando **Front-End, UI Design, IBM Design Language, VUE.js e React**
+## Sobre Mim
+Sou Éric Arruda, profissional de Business Intelligence e Análise de Dados. Com experiência em Power BI, SQL e Python, transformo dados em insights acionáveis para impulsionar decisões estratégicas e criar relatórios valiosos.
 
-- 👨‍💻 Meus Projetos estão disponíveis em: [https://www.behance.net/ricarruda](https://www.behance.net/ricarruda)
+Como Analista de BI e Negócios na Emicol Brasil, utilizo essas ferramentas para melhorar as operações do negócio. Também sou estudante de Engenharia da Computação na Facens, onde combino habilidades técnicas com visão analítica para inovar na análise de dados.
 
-- 📫 Como entrar em contato? **ericarrudaa363@gmail.com**
+## Experiência
+### Analista de BI e Negócios
+**Emicol Brasil** | Junho de 2023 - Presente
+- Desenvolvo e mantenho painéis de dados usando Power BI para fornecer insights em tempo real.
+- Escrevo consultas SQL complexas para extrair e analisar dados de diversos bancos de dados.
+- Utilizo Python para limpeza, processamento e automação de dados.
 
-<h3 align="left">Linguagens de Programação e Ferramentas:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Estagiário de Gestão de Mídias Sociais
+**Facens** | Setembro de 2021 - Novembro de 2022
+- Criei e gerenciei conteúdo para os canais de mídias sociais do departamento ALUMNI FACENS.
+- Monitorei e analisei métricas de mídias sociais para otimizar engajamento e alcance.
 
+## Educação
+**Bacharelado em Engenharia, Engenharia de Computação**
+**Facens** | Agosto de 2021 - Junho de 2026
+
+## Habilidades
+- Power BI
+- SQL
+- Python
+- Planejamento Estratégico
+- Análise de Dados
+- Gestão de Mídias Sociais
+- Comunicação Oral
+- Inglês (Intermediário)
+- Chinês (Básico)
+
+## Projetos
+### Painel de Análise de Vendas
+- Criei um painel abrangente de análise de vendas usando Power BI.
+- Integreei dados de múltiplas fontes e desenvolvi relatórios interativos para rastrear desempenho de vendas.
+
+### Script de Limpeza e Análise de Dados
+- Desenvolvi um script em Python usando Pandas e NumPy para limpar e analisar grandes conjuntos de dados.
+- Utilizei Matplotlib e Seaborn para visualização de dados.
+
+## Contato
+- LinkedIn: [Perfil LinkedIn](https://www.linkedin.com/in/eric-f-arruda)
+- E-mail: eric.f.arruda@gmail.com
+- GitHub: [Perfil GitHub](https://github.com/ericfarruda)
