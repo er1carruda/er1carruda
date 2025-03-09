@@ -43,5 +43,5 @@ Como Analista de BI e Negócios na Emicol Brasil, utilizo essas ferramentas para
 
 ## Contato
 - LinkedIn: [Perfil LinkedIn](https://www.linkedin.com/in/eric-f-arruda)
-- E-mail: eric.f.arruda@gmail.com
+- E-mail: ericarrudaa363@gmail.com
 - GitHub: [Perfil GitHub](https://github.com/ericfarruda)
